@@ -10,9 +10,6 @@ public class BankScript : MonoBehaviour
     public static bool moneyIsHere;
     public int index;
     public string timer;
-    private void Start()
-    {
-    }
 
     public int SearchPoint(string timer)
     {
