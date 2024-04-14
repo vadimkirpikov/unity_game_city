@@ -1,1 +1,1 @@
-![Image alt](https://i.ibb.co/7NkRddW/2.png)
+![Image alt](https://i.postimg.cc/tJpRhL7B/1.png)
